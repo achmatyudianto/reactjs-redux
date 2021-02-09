@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "YUdi",
+      "alamat": "Malang",
+      "umur": 22,
+      "notlp": "0980989089345"
+    },
+    {
+      "id": 2,
+      "nama": "Novan",
+      "alamat": "Malang",
+      "umur": 22,
+      "notlp": "0980987987978"
+    }
+  ]
+}
